@@ -31,6 +31,6 @@ jobs:
         with:
           project: "juancarlosc-p5-62"
           entrypoint: "main.ts"
-          root: "."
+          root: "fresh-project/"
           
           
